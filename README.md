@@ -1,195 +1,237 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hey%2C+I'm+Shyam+Daniel+%F0%9F%92%BB+aka+T3CHYFR34K;Cybersecurity+%7C+Cloud+%7C+Automation+%7C+AI;I+Build+Tools%2C+Bots+%26+Secure+Systems+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Shyam+Daniel+%F0%9F%92%BB+aka+T3CHYFR34K;Cybersecurity+%7C+Cloud+%7C+Automation+%7C+AI;I+Build+Tools%2C+Bots+%26+Secure+Systems+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI-Assisted%20Developer-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-SOC-red?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Automation-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Security-Wazuh-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://github.com/t3chyfr34k">
-    <img src="https://img.shields.io/badge/GitHub-T3CHYFR34K-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-T3CHYFR34K-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/t3chyfr34k">
-    <img src="https://img.shields.io/badge/LinkedIn-T3CHYFR34K-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-T3CHYFR34K-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
+---
+
+## 🧠 WHO IS T3CHYFR34K?
+
+> Hey, I'm **Shyam Daniel M**, aka **T3CHYFR34K**.
+
+I'm a **B.Tech Information Technology graduate** interested in:
+
+🔐 Cybersecurity & SOC  
+☁️ Cloud Computing  
+🌐 Networking  
+🐧 Linux  
+🤖 AI & AI-assisted development  
+⚙️ Automation  
+🐍 Python & Bash  
+
+I learn primarily through **hands-on projects, internships, experimentation and building things myself**.
+
+> I don't just want to know how technology works.
+> **I want to build it, test it, break it, debug it and understand it.**
+
+---
+
+# 🤖 AI-AUTOMATED ENGINEER
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=t3chyfr34k&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/AI%20Everywhere-7C3AED?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Think%20%7C%20Design%20%7C%20Build-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automate%20Everything-00A67E?style=for-the-badge" />
 </p>
 
----
+> **I use AI for almost everything I build.**
 
-## 🧠 Who is T3CHYFR34K?
+AI is a major part of my development workflow.
+
+I use it for:
+
+🧠 Brainstorming  
+🏗️ Architecture  
+📁 Project structure  
+🖥️ Pages & UI  
+⚙️ Implementation  
+🐛 Debugging  
+🧪 Testing  
+📚 Documentation  
+🔄 Refactoring  
+🚀 Automation  
+
+But there is an important distinction:
+
+> **AI assists the implementation. I own the idea and engineering direction.**
+
+When I start a project, I decide what the product should be.
 
 ```text
-Shyam Daniel M
-aka T3CHYFR34K
+                    💡 MY IDEA
+                       │
+                       ▼
+                 🧠 MY CONCEPT
+                       │
+                       ▼
+               🏗️ MY ARCHITECTURE
+                       │
+                       ▼
+             📁 MY DIRECTORY STRUCTURE
+                       │
+                       ▼
+                🖥️ MY PAGES / UI
+                       │
+                       ▼
+                🔄 MY WORKFLOW
+                       │
+                       ▼
+              🤖 AI-ASSISTED CODE
+                       │
+                       ▼
+                 🧪 TESTING
+                       │
+                       ▼
+                  🐛 DEBUGGING
+                       │
+                       ▼
+               🚀 FINAL PRODUCT
 
-B.Tech Information Technology
+🧩 WHAT I CONTROL
 
-Cybersecurity • SOC • Cloud • Networking
-Linux • Automation • AI-Assisted Development
+✓ What to build
+✓ Why it should exist
+✓ Application structure
+✓ Directory structure
+✓ Pages
+✓ User flow
+✓ Features
+✓ Data flow
+✓ APIs
+✓ Integrations
+✓ Technology choices
+✓ UI/UX direction
+✓ Testing requirements
+✓ Debugging
+✓ Final result
 
-I like understanding how systems work,
-building practical tools,
-automating repetitive workflows,
-and learning by actually doing things.
+⚡ MY PHILOSOPHY
 
-I'm an IT graduate focused on Cybersecurity, SOC, Cloud Computing, Networking, Linux and Automation.
+> AI writes faster.
 
-My experience comes from internships, hands-on projects, self-learning and practical experimentation.
-
-> I don't want to just learn how technology works. I want to build with it, break it, debug it and understand it.
-
-
-
-
----
-
-🤖 AI-Automated Engineer
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI--Assisted%20Development-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Human%20Architecture-000000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Automation-00A67E?style=for-the-badge&logo=robot" />
-</p>> AI doesn't replace my ideas. It accelerates my execution.
-
-
-
-I'm an AI-assisted / AI-automated developer.
-
-I use AI heavily throughout my development workflow — brainstorming, architecture, coding, debugging, documentation, testing, optimization and repetitive tasks.
-
-But the engineering direction is mine.
-
-🧠 What I Decide
-
-┌─────────────────────┐
-                    │       MY IDEA       │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │    ARCHITECTURE     │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ DIRECTORY STRUCTURE │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │  PAGES / UI / FLOW  │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ AI-ASSISTED CODING  │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │  TEST • DEBUG • FIX │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │   MY FINAL PRODUCT  │
-                    └─────────────────────┘
-
-I don't simply generate code and blindly ship it.
-
-I decide:
-
-🧠 What I want to build
-
-🏗️ How the system should be structured
-
-📁 How the directories should be organized
-
-🖥️ What pages and features are needed
-
-🎨 How the UI/UX should flow
-
-🔄 How features should communicate
-
-🗄️ How data should be organized
-
-🔌 Which APIs and integrations are needed
-
-🧪 What needs to be tested
-
-🐛 What needs to be fixed
-
-🚀 What the final product should become
-
-
-⚡ My Philosophy
-
-AI writes faster.
 I decide what gets written.
 
-AI can generate implementation.
-I provide the direction.
 
-AI can suggest solutions.
+
+> AI can generate code.
+
+I design the system.
+
+
+
+> AI can suggest solutions.
+
 I validate them.
 
-AI can accelerate execution.
+
+
+> AI accelerates execution.
+
 I own the architecture.
 
 
----
-
-💻 AI + LeetCode
-
-I also use AI while practicing programming and working through LeetCode problems.
-
-The implementation can be AI-assisted, but I focus on understanding:
-
-Problem
-   ↓
-Approach
-   ↓
-Logic
-   ↓
-Data Structure
-   ↓
-Algorithm
-   ↓
-Implementation
-   ↓
-Testing
-   ↓
-Explanation
-
-> The generated code isn't the point. Understanding the problem and being able to reason about the solution is.
-
-
 
 
 ---
 
-🛠️ Tech Stack
+💻 AI × LEETCODE
 
-🔐 Cybersecurity & SOC
+I also use AI while practicing LeetCode and programming problems.
 
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-4B275F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security%20Fundamentals-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing%20(Basics)-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network%20Security-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/IAM-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevSecOps-333333?style=flat-square" />
-</p>☁️ Cloud & DevOps
+The code may be AI-assisted, but I focus on understanding the actual problem and solution.
 
-<p>
+┌──────────────────────┐
+│       PROBLEM        │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│      APPROACH        │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│       LOGIC          │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ DATA STRUCTURE /     │
+│     ALGORITHM        │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ AI-ASSISTED CODE     │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ REVIEW + DEBUG       │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ UNDERSTAND + EXPLAIN │
+└──────────────────────┘
+
+> The code is not the only thing I care about. I care about understanding why the code works.
+
+
+
+
+---
+
+🛠️ TECH STACK
+
+🔐 CYBERSECURITY & SOC
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-4B275F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security%20Fundamentals-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing%20(Basics)-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20Security-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IAM-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevSecOps-333333?style=for-the-badge" />
+</p>
+---
+
+☁️ CLOUD & DEVOPS
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,jenkins" />
-</p>AWS: EC2 • S3 • IAM • CloudWatch
+</p>AWS
 
-DevOps: Docker • Git • GitHub Actions • Jenkins (Basics) • CI/CD
+EC2 • S3 • IAM • CloudWatch
 
-🐧 Operating Systems
+DevOps
 
-<p>
+Docker • Git • GitHub Actions • Jenkins (Basics) • CI/CD
+
+
+---
+
+🐧 OPERATING SYSTEMS
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>Linux • Arch Linux • Windows
 
-🌐 Networking
+
+---
+
+🌐 NETWORKING
 
 TCP/IP
 OSI Model
@@ -202,54 +244,56 @@ Firewalls
 Subnetting
 Network Troubleshooting
 
-🐍 Programming & Automation
 
-<p>
+---
+
+🐍 PROGRAMMING & AUTOMATION
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,java" />
 </p>Python • Bash • JavaScript • Java • n8n • API Automation
 
-🗄️ Databases
 
-<p>
+---
+
+🗄️ DATABASES
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>MySQL • SQL • MongoDB • Firebase
 
 
 ---
 
-📊 Skill Snapshot
+📊 SKILL SNAPSHOT
 
-Area	Current Focus
+Area	Focus
 
-🔐 Cybersecurity	Security fundamentals, vulnerability assessment, security practices
-🛡️ SOC	Security monitoring & Wazuh
-☁️ Cloud	AWS & cloud deployment fundamentals
-🌐 Networking	TCP/IP, routing, VPN, DNS, troubleshooting
-🐧 Linux	Linux administration & troubleshooting
-🐳 DevOps	Docker, GitHub Actions, CI/CD
-🐍 Automation	Python, Bash, APIs, n8n
-🤖 AI	AI-assisted development & automation workflows
-💻 Development	Web, Android & automation projects
-🧩 Problem Solving	Programming & LeetCode practice
+🔐 Cybersecurity	Security Fundamentals • Vulnerability Assessment
+🛡️ SOC	Security Monitoring • Wazuh
+☁️ Cloud	AWS • Cloud Deployment
+🌐 Networking	TCP/IP • Routing • VPN • DNS • Troubleshooting
+🐧 Linux	Linux Administration • Troubleshooting
+🐳 DevOps	Docker • GitHub Actions • CI/CD
+🐍 Automation	Python • Bash • APIs • n8n
+🤖 AI	AI-Assisted Development • AI Workflows
+💻 Development	Web • Android • Automation
+🧩 Problem Solving	Programming • LeetCode
 
 
 
 ---
 
-💼 Internship Experience
+💼 INTERNSHIP EXPERIENCE
 
 ☁️ DevOps Intern — Cloud Institution
 
 2025
 
-Built CI/CD pipelines using GitHub Actions.
-
-Automated deployments using Docker containers.
-
-Worked with Linux-based deployment environments.
-
-Gained practical exposure to cloud and DevOps workflows.
-
+✓ Built CI/CD pipelines using GitHub Actions
+✓ Automated deployments using Docker
+✓ Worked with Linux-based deployment environments
+✓ Gained practical exposure to cloud and DevOps workflows
 
 
 ---
@@ -258,180 +302,176 @@ Gained practical exposure to cloud and DevOps workflows.
 
 2024
 
-Assisted with vulnerability assessments.
-
-Worked with penetration-testing fundamentals.
-
-Identified and documented security vulnerabilities.
-
-Applied security practices within DevSecOps workflows.
-
+✓ Assisted with vulnerability assessments
+✓ Worked with penetration-testing fundamentals
+✓ Identified and documented security vulnerabilities
+✓ Applied security practices within DevSecOps workflows
 
 
 ---
 
 📱 Android & AI Intern — Gateway Software Solutions
 
-Worked with Android application development.
-
-Gained practical exposure to AI-related development.
-
-Worked with application development workflows and implementation.
-
+✓ Worked with Android application development
+✓ Gained practical exposure to AI-related development
+✓ Worked with application development workflows
 
 
 ---
 
-🚀 Projects
+🚀 PROJECTS
 
 🌋 IoT Landslide Prediction System
 
-An IoT-based environmental monitoring project designed around real-time monitoring and early-warning functionality.
+An IoT-based environmental monitoring project focused on real-time monitoring and early-warning functionality.
 
-What I Worked On
+🔧 What I Worked On
 
-Developed an IoT-based landslide prediction system using environmental sensors.
+✓ Environmental sensor integration
+✓ Real-time monitoring
+✓ Cloud connectivity
+✓ Remote monitoring
+✓ Early-warning alerts
+✓ Networking concepts
+✓ Secure data transmission
 
-Connected sensor data to the cloud for remote monitoring.
+🔄 Data Flow
 
-Implemented early-warning alert functionality.
-
-Applied networking concepts for reliable communication.
-
-Worked with secure data transmission concepts.
-
-
-Environmental Sensors
-        ↓
-   Sensor Data
-        ↓
-   Communication
-        ↓
-      Cloud
-        ↓
-Remote Monitoring
-        ↓
- Early Warning
+🌡️ Environmental Sensors
+          ↓
+     📡 Sensor Data
+          ↓
+    🌐 Communication
+          ↓
+       ☁️ Cloud
+          ↓
+   📊 Remote Monitoring
+          ↓
+      ⚠️ Alert
 
 
 ---
 
 🤖 YT-AutoBot
 
-A Python automation project built around YouTube API integration, OAuth and automated publishing workflows.
+A Python automation project built around YouTube API integration, OAuth 2.0 and automated publishing workflows.
 
-What I Worked On
+🔧 What I Worked On
 
-YouTube Data API integration
+✓ YouTube Data API
+✓ OAuth 2.0 authentication
+✓ Automated video uploads
+✓ Video metadata management
+✓ JSON / API responses
+✓ Python automation
+✓ Linux development
+✓ Git version control
+✓ AI-assisted workflow experimentation
+✓ n8n automation concepts
 
-OAuth 2.0 authentication
+🔄 Workflow
 
-Automated upload workflows
-
-Video metadata management
-
-JSON/API response handling
-
-Python automation
-
-Linux-based development
-
-Git version control
-
-AI-assisted workflow experimentation
-
-n8n automation concepts
-
-
-Automation Workflow
-        ↓
-   AI Processing
-        ↓
-  Content Pipeline
-        ↓
- YouTube Data API
-        ↓
-     OAuth 2.0
-        ↓
-      Upload
+💡 Content Idea
+                 ↓
+          🤖 AI Processing
+                 ↓
+        ⚙️ Automation Flow
+                 ↓
+          🎬 Video Pipeline
+                 ↓
+          🔑 OAuth 2.0
+                 ↓
+        ▶️ YouTube Data API
+                 ↓
+             📤 Upload
 
 
 ---
 
-🧪 What I Like Building
+🧪 WHAT I LIKE BUILDING
 
-┌───────────────────────────────────────────┐
-│                  BUILD                    │
-├───────────────────────────────────────────┤
-│                                           │
-│  🔐 Security                              │
-│  ├── Monitoring                           │
-│  ├── Vulnerability Assessment             │
-│  └── Secure Systems                       │
-│                                           │
-│  ☁️ Cloud                                 │
-│  ├── AWS                                  │
-│  ├── Deployment                           │
-│  └── Infrastructure                       │
-│                                           │
-│  🤖 AI                                    │
-│  ├── AI-assisted development              │
-│  ├── AI workflows                         │
-│  └── Automation                           │
-│                                           │
-│  ⚙️ Automation                            │
-│  ├── Python                               │
-│  ├── Bash                                 │
-│  ├── APIs                                 │
-│  └── n8n                                  │
-│                                           │
-│  🌐 Networking                            │
-│  ├── TCP/IP                               │
-│  ├── Routing                              │
-│  ├── VPN                                  │
-│  └── Troubleshooting                      │
-│                                           │
-└───────────────────────────────────────────┘
+┌──────────────────────────┐
+        │       🔐 SECURITY        │
+        │ Monitoring               │
+        │ Vulnerability Assessment │
+        │ Secure Systems           │
+        └────────────┬─────────────┘
+                     │
+                     ▼
+        ┌──────────────────────────┐
+        │        ☁️ CLOUD          │
+        │ AWS                      │
+        │ Deployment               │
+        │ Infrastructure           │
+        └────────────┬─────────────┘
+                     │
+                     ▼
+        ┌──────────────────────────┐
+        │         🤖 AI            │
+        │ AI-Assisted Development  │
+        │ AI Workflows             │
+        │ Automation               │
+        └────────────┬─────────────┘
+                     │
+                     ▼
+        ┌──────────────────────────┐
+        │      ⚙️ AUTOMATION       │
+        │ Python                   │
+        │ Bash                     │
+        │ APIs                     │
+        │ n8n                      │
+        └────────────┬─────────────┘
+                     │
+                     ▼
+        ┌──────────────────────────┐
+        │       🌐 NETWORKING      │
+        │ TCP/IP                   │
+        │ Routing                  │
+        │ VPN                      │
+        │ Troubleshooting          │
+        └──────────────────────────┘
 
 
 ---
 
-📚 Currently Learning
+📚 CURRENTLY LEARNING
 
 I'm strengthening my practical skills for entry-level Cybersecurity, SOC and Cloud roles.
 
-Cybersecurity
-      ↓
-SOC Fundamentals
-      ↓
-Security Monitoring
-      ↓
-Wazuh
-      ↓
-Networking
-      ↓
-Linux
-      ↓
-Cloud Security
-      ↓
-AWS
-      ↓
-Python / Bash Automation
+🔐 Cybersecurity
+       ↓
+🛡️ SOC Fundamentals
+       ↓
+📡 Security Monitoring
+       ↓
+🟣 Wazuh
+       ↓
+🌐 Networking
+       ↓
+🐧 Linux
+       ↓
+☁️ Cloud Security
+       ↓
+☁️ AWS
+       ↓
+🐍 Python / Bash Automation
 
 🎯 Learning Philosophy
 
-> Less theory.
-More labs.
-More troubleshooting.
-More practical scenarios.
-More building.
-
-
+LESS THEORY
+     ↓
+MORE LABS
+     ↓
+MORE TROUBLESHOOTING
+     ↓
+MORE REAL-WORLD SCENARIOS
+     ↓
+MORE BUILDING
 
 
 ---
 
-🎓 Education
+🎓 EDUCATION
 
 B.Tech — Information Technology
 
@@ -446,21 +486,21 @@ Christ The King Polytechnic College
 
 ---
 
-📜 Certifications
+📜 CERTIFICATIONS
 
-Cybersecurity Educator Professional — RedTeamLeaders
+🏆 Cybersecurity Educator Professional — RedTeamLeaders
 
-LinkedIn Learning — Cybersecurity Terminology
+🏆 LinkedIn Learning — Cybersecurity Terminology
 
-Oracle Foundation Blockchain Certification
+🏆 Oracle Foundation Blockchain Certification
 
-MongoDB Certified: Building AI-Powered Search with Vector Search
-
+🏆 MongoDB Certified:
+   Building AI-Powered Search with Vector Search
 
 
 ---
 
-📈 GitHub Activity
+📈 GITHUB ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=t3chyfr34k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
@@ -470,14 +510,14 @@ MongoDB Certified: Building AI-Powered Search with Vector Search
 </p>
 ---
 
-🐍 Contribution Snake
+🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/t3chyfr34k/t3chyfr34k/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 ---
 
-🎭 Code × AI × Automation
+🎭 CODE × AI × AUTOMATION
 
 > I don't just want to write code.
 
@@ -498,7 +538,7 @@ I want to understand why.
 
 ---
 
-⚡ A Little More T3CHYFR34K
+⚡ A LITTLE MORE T3CHYFR34K
 
 Sometimes I code.
 Sometimes I automate.
@@ -509,46 +549,44 @@ Sometimes AI writes the code.
 
 But the idea?
 
-Mine.
+        MINE.
 
 The architecture?
 
-Mine.
+        MINE.
 
 The directory structure?
 
-Mine.
+        MINE.
 
 The pages?
 
-Mine.
+        MINE.
 
 The workflow?
 
-Mine.
+        MINE.
 
 The final product?
 
-Mine.
+        MINE.
 
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
-</p><h3 align="center">
-  💻 Build → Break → Debug → Learn → Secure → Automate
+</p><h3 align="center">💻 BUILD → BREAK → DEBUG → LEARN → SECURE → AUTOMATE
+
 </h3><p align="center">
   <b>T3CHYFR34K</b>
 </p>
 ---
 
-> ⚡ Building quietly.
-🔐 Learning Cybersecurity.
-☁️ Exploring Cloud.
-🐧 Living in Linux.
-🤖 Automating with AI.
-🧠 Designing before coding.
-
-The code may be AI-assisted.
-The vision is mine.
+<p align="center">
+  <i>Building quietly. Learning constantly. Automating relentlessly.</i>
+</p><p align="center">
+  <b>The code may be AI-assisted.</b><br>
+  <b>The vision is mine.</b>
+</p>
+```
